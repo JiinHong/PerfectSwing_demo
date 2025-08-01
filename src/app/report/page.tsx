@@ -83,7 +83,7 @@ export default function ReportPage() {
         <div className="space-y-4">
           <div className="border-l-4 border-emerald-500 pl-4 bg-white rounded-lg p-3">
             <h3 className="font-semibold text-gray-900">테이크백</h3>
-            <p className="text-gray-600 text-sm">라켓을 더 높이 들어올리면 파워가 향상됩니다. 선수 영상와 비교해 15도 더 높게 올려보세요.</p>
+            <p className="text-gray-600 text-sm">라켓을 더 높이 들어올리면 파워가 향상됩니다. 선수 영상과 비교해 15도 더 높게 올려보세요.</p>
           </div>
           <div className="border-l-4 border-blue-500 pl-4 bg-white rounded-lg p-3">
             <h3 className="font-semibold text-gray-900">스탠스</h3>
