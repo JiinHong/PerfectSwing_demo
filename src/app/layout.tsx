@@ -1,7 +1,6 @@
 import type { Metadata } from "next";
 import { Geist, Geist_Mono, Inter } from "next/font/google";
 import "./globals.css";
-import Navigation from "@/components/Navigation";
 
 const geistSans = Geist({
   variable: "--font-geist-sans",
@@ -40,7 +39,6 @@ export default function RootLayout({
             <div className="min-h-screen pb-20 overflow-y-auto">
               {children}
             </div>
-            <Navigation />
           </div>
         </div>
       </body>
